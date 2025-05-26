@@ -130,8 +130,9 @@ To protect the drone's propellers during sudden crashes and collisions with unpr
 </p>
 
 <p align="center">
-  <img src="Mini%20Drone%20.jpg" alt="Mini Drone" width="450"/>
+  <img src="Mini Drone.jpg" alt="Mini Drone Parts" width="600"/>
 </p>
+
 
 <p align="center"><i>
 3D printed ultra-light drone bodies designed for extended flight time and efficient lift with small-capacity batteries.
